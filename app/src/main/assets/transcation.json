@@ -1,0 +1,99 @@
+{
+  "status": 200,
+  "message": "success",
+  "data": [
+    {
+      "parentId": "1",
+      "date": "10-05-2022",
+      "mytransactions": [
+        {
+          "type": "income",
+          "description": "Income added",
+          "amount": "$1000"
+        },
+
+        {
+          "type": "income",
+          "description": "Income added",
+          "amount": "$1000"
+        },
+        {
+          "type": "expense",
+          "description": "Fee paid",
+          "amount": "$13400"
+        },
+        {
+          "type": "income",
+          "description": "Income added",
+          "amount": "$10600"
+        },
+        {
+          "type": "expense",
+          "description": "Fee paid",
+          "amount": "$12400"
+        },
+        {
+          "type": "income",
+          "description": "Income added",
+          "amount": "$10200"
+        },
+        {
+          "type": "expense",
+          "description": "Fee paid",
+          "amount": "$1200"
+        },
+        {
+          "type": "expense",
+          "description": "Fee paid",
+          "amount": "$1200"
+        },
+        {
+          "type": "income",
+          "description": "Income added",
+          "amount": "$10300"
+        },
+        {
+          "type": "expense",
+          "description": "Fee paid",
+          "amount": "$1050"
+        }
+      ]
+    },
+    {
+      "parentId": "2",
+      "date": "11-05-2022",
+      "mytransactions": [
+        {
+          "type": "expense",
+          "description": "Food expense",
+          "amount": "$1050"
+        },
+        {
+          "type": "expense",
+          "description": "Travel",
+          "amount": "$1050"
+        },
+        {
+          "type": "income",
+          "description": "Income added",
+          "amount": "$14000"
+        },
+        {
+          "type": "expense",
+          "description": "Fee paid",
+          "amount": "$2100"
+        },
+        {
+          "type": "income",
+          "description": "Income added",
+          "amount": "$13000"
+        },
+        {
+          "type": "expense",
+          "description": "Fee paid",
+          "amount": "$1040"
+        }
+      ]
+    }
+  ]
+}
